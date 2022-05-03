@@ -2,7 +2,6 @@
 deployment:
   tasks:
   - export DEPLOYPATH = "/home/gnmc3466/sous_domaine/api/"
-
-  - /bin/cp -R data /home/gnmc3466/sous_domaine/api/data/
+  - /bin/cp -R data $DEPLOYPATH
   - /bin/cp app.py $DEPLOYPATH
   - /bin/cp requirements.txt $DEPLOYPATH
