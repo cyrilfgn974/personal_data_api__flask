@@ -2,11 +2,11 @@
     {
         "Name": "Premier projet",
         "Description": "",
-        "lang": ["Java", "Python"]
+        "lang": "Java"
     },
     {
         "Name": "Second projet",
         "Description": "",
-        "lang": ["Flutter", "Python"]
+        "lang": "Flutter"
     }
 ]
