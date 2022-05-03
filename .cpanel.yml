@@ -1,0 +1,6 @@
+---
+deployment:
+  DEPLOYPATH = "/home/gnmc3466/sous_domaine/api/"
+  - /bin/cp -R data $DEPLOYPATH/data/
+  - /bin/cp app.py $DEPLOYPATH
+  - /bin/cp requirements.txt $DEPLOYPATH
