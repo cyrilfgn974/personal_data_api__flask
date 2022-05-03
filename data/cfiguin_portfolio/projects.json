@@ -1,6 +1,5 @@
 [
     {
-<<<<<<< HEAD
         "Name": "Human Machine Interface (HMI) - WXR application",
         "Description": "Model a graphical interface of a system in flight according to precise specifications.Model a graphical interface of a system in flight according to precise specifications.",
         "lang": "Java"
@@ -62,20 +61,4 @@
     }
 
 ]
-=======
-        "Name": "Premier projet",
-        "Description": "",
-        "lang": "Java"
-    },
-    {
-        "Name": "Second projet",
-        "Description": "",
-        "lang": "Flutter"
-    },
-    {
-        "Name": "Troisième projet",
-        "Description": "",
-        "lang": "Flutter"
-    }
-]
->>>>>>> 34401fd0f820ee1146973594084c24669df82526
+
