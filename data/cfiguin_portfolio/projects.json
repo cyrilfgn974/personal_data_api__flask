@@ -1,64 +1,8 @@
 [
     {
-        "Name": "Human Machine Interface (HMI) - WXR application",
-        "Description": "Model a graphical interface of a system in flight according to precise specifications.Model a graphical interface of a system in flight according to precise specifications.",
-        "lang": "Java"
+        "Name":"1"
     },
     {
-        "Name": " The connected been (IoT project)",
-        "Description": "This is a program and an Arduino module to be added on a trash can in order to make the general public aware of waste sorting. It is a tool taking into account an eco-responsible approach.",
-        "lang": "JavaScript, Arduino, Python"
-    },
-    {
-        "Name": "Self-adapting system: Automatic Rover Protection (ARP)",
-        "Description": "The objective was to model a system that simulates an environment in which rovers move. ",
-        "lang": "Rodin"
-    },
-    {
-        "Name": "Crealink : A social network dedicated to muses and artists",
-        "Description": "Creation of a social network as part of the N7 web application project.",
-        "lang": "Java J2EE, AngularJs"
-    },
-    {
-        "Name": "Miniproject BMC",
-        "Description": "The goal of this miniproject was to make an AI for the \"Numbers\" part of the \"Numbers and Letters\" game using Z3 as the SMT solver.",
-        "lang": "Java"
-    },
-    {
-        "Name": "HIDOOP",
-        "Description": "Realization of a simplified version of HADOOP: HIDOOP in the framework of the distributed data project at ENSEEIHT.",
-        "lang": "Java"
-    },
-    {
-        "Name": "Model Driven Engineering Project: Modeling, Verification and Game Generation",
-        "Description": "This project consists in producing a modeling, verification and code generation chain for code generation for games of discovery.",
-        "lang": "Eclipse modules (XText, Acceleo, ATL, Sirius), Java"
-    },
-    {
-        "Name": "Mini Golf Simulator 7",
-        "Description": "Realization of a Mini-Golf simulator as part of our Object Technology course at N7 ",
-        "lang": "Java"
-    },
-    {
-        "Name": "Family Tree Simulator",
-        "Description": "Realization of a Family Tree simulator as part of our Imperative Programming project at N7",
-        "lang": "ADA"
-    },
-    {
-        "Name": "Othello 6x6 (Pok'Othello)",
-        "Description": "Realization of the game Othello (in 6 squares by 6 squares) with artificial intelligence",
-        "lang": "Python"
-    },
-    {
-        "Name": "Reverse Polish Notation Calculator",
-        "Description": "Realization of a calculator in inverse polish notation",
-        "lang": "Python"
-    },
-    {
-        "Name": "Image processing software",
-        "Description": "Realization of a program allowing to open an image and to add various filters (B&W, Grayscale, Gaussian Blur, ...).",
-        "lang": "Python"
+        "Name":"2"
     }
-
 ]
-
